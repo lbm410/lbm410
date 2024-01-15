@@ -22,9 +22,10 @@ That's why I like to make things that make a difference.
 ### Talking about Personal Stuffs:
 
 - 👨‍🎓 I'm a **Junior Software Engineer**
-- 💬 Ask me about anything, I am happy to help
+- 🎓 I´m currently studying in the **University of Almeria**.
 - 📬 How to reach me: [lucasbarrientosmunoz@gmail.com](mailto:lucasbarrientosmunoz@gmail.com)
-- 💪 This is where I write, code and solve problems:
+- 💬 Ask me about anything, I am happy to help
+- 💪 This is where I code and solve problems.
 
 ---
 
