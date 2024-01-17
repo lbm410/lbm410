@@ -24,6 +24,7 @@ That's why I like to make things that make a difference.
 - 👨‍🎓 I'm a **Junior Software Engineer**
 - 🎓 I´m currently studying in the **University of Almeria**.
 - 📬 How to reach me: [lucasbarrientosmunoz@gmail.com](mailto:lucasbarrientosmunoz@gmail.com)
+- 📨 WhatsApp: [Contact me by WhatsApp](https://wa.link/8o81b3)
 - 💬 Ask me about anything, I am happy to help
 - 💪 This is where I code and solve problems.
 
