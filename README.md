@@ -34,6 +34,9 @@ That's why I like to make things that make a difference.
 
 ### 👨‍💻 Programming languages
 
-<p allign="center">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,react,azure,idea,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,react,azure,idea,vscode"/>
+  </a>
 </p>
+
