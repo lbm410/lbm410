@@ -1,42 +1,35 @@
-# Welcome to [Lucas Barrientos's](https://lucasbarrientos.es/) profile! <a href="https://www.lucasbarrientos.es/" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Lucas Barrientos's](https://lucasbarrientos.es/) Profile! <a href="https://www.lucasbarrientos.es/" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/lucasbarrientosdev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucasbarrientosdev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasbarrientosdev" height="30" width="40" /></a>
 &nbsp;
-<a href="https://twitter.com/lucxskrt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://twitter.com/lucxskrt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucxskrt" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/lucxskrt/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
-&nbsp;
-&nbsp;
-
-
-
-## Glad to see you here!
-
-I am a fullstack software engineer.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
-
-That's why I like to make things that make a difference.
-
-
-### Talking about Personal Stuffs:
-
-- 👨‍🎓 I'm a **Junior Software Engineer**
-- 🎓 I´m currently studying in the **University of Almeria**.
-- 📬 How to reach me: [lucasbarrientosmunoz@gmail.com](mailto:lucasbarrientosmunoz@gmail.com)
-- 📨 WhatsApp: [Contact me by WhatsApp](https://wa.link/8o81b3)
-- 💬 Ask me about anything, I am happy to help
-- 💪 This is where I code and solve problems.
+<a href="https://www.instagram.com/lucxskrt/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucxskrt" height="30" width="40" /></a>
 
 ---
 
-## 🛠️ My favorite tools
+## Glad to See You Here!
 
-### 👨‍💻 Programming languages
+I'm a full-stack software engineer with a focus on creating solutions that make a difference.
+
+I am detail-oriented and driven by the impact that technology can have on the world. My goal is to build tools and applications that bring real value.
+
+### About Me:
+- 👨‍🎓 Junior Software Engineer
+- 🎓 Currently studying at the **University of Almería**
+- 📬 How to reach me: [lucasbarrientosmunoz@gmail.com](mailto:lucasbarrientosmunoz@gmail.com)
+- 📨 WhatsApp: [Contact me by WhatsApp](https://wa.link/8o81b3)
+- 💬 Feel free to ask me anything—I’m here to help.
+- 💪 This is where I code, learn, and tackle new challenges.
+
+---
+
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Programming Languages & Frameworks
 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,react,azure,idea,vscode"/>
   </a>
 </p>
-
