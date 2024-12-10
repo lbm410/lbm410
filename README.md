@@ -1,6 +1,10 @@
 # Welcome to [Lucas Barrientos's](https://lucasbarrientos.es/) Profile! <a href="https://lucasbarrientos.es/" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"></a>
 
-<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front+End+Developer)](https://git.io/typing-svg)</p>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front+End+Developer" /></a>
+</p>
 
 <a href="https://www.linkedin.com/in/lucasbarrientosdev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasbarrientosdev" height="30" width="40" /></a>
 &nbsp;
