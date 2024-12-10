@@ -1,5 +1,7 @@
 # Welcome to [Lucas Barrientos's](https://lucasbarrientos.es/) Profile! <a href="https://lucasbarrientos.es/" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front+End+Developer)](https://git.io/typing-svg)
+
 <a href="https://www.linkedin.com/in/lucasbarrientosdev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasbarrientosdev" height="30" width="40" /></a>
 &nbsp;
 <a href="https://twitter.com/lucxskrt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucxskrt" height="30" width="40" /></a>
