@@ -33,3 +33,9 @@ I am detail-oriented and driven by the impact that technology can have on the wo
     <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,react,azure,idea,vscode"/>
   </a>
 </p>
+
+---
+
+## 📊 Stats and Activityç
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lbm410&theme=iceberg&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
