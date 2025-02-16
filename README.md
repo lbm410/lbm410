@@ -18,7 +18,7 @@ I am detail-oriented and driven by the impact that technology can have on the wo
 - 👨‍🎓 Junior Software Engineer
 - 🎓 Currently studying at the **University of Almería**
 - 📬 How to reach me: [lucasbarrientosmunoz@gmail.com](mailto:lucasbarrientosmunoz@gmail.com)
-- 📨 WhatsApp: [Contact me by WhatsApp](https://wa.link/8o81b3)
+- 📨 WhatsApp: [Contact me by WhatsApp](https://wa.link/6ch2m5)
 - 💬 Feel free to ask me anything—I’m here to help.
 - 💪 This is where I code, learn, and tackle new challenges.
 
