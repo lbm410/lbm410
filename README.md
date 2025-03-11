@@ -15,7 +15,7 @@ I'm a full-stack software engineer with a focus on creating solutions that make 
 I am detail-oriented and driven by the impact that technology can have on the world. My goal is to build tools and applications that bring real value.
 
 ### About Me:
-- 👨‍🎓 Junior Software Engineer
+- 👨‍🎓 Junior Software Engineer | Fullstack Developer
 - 🎓 Currently studying at the **University of Almería**
 - 📬 How to reach me: [lucasbarrientosmunoz@gmail.com](mailto:lucasbarrientosmunoz@gmail.com)
 - 📨 WhatsApp: [Contact me by WhatsApp](https://wa.link/6ch2m5)
