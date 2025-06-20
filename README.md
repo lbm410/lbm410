@@ -2,8 +2,6 @@
 
 <a href="https://www.linkedin.com/in/lucasbarrientosdev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasbarrientosdev" height="30" width="40" /></a>
 &nbsp;
-<a href="https://twitter.com/lucxskrt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucxskrt" height="30" width="40" /></a>
-&nbsp;
 <a href="https://www.instagram.com/lucxskrt/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucxskrt" height="30" width="40" /></a>
 
 ---
@@ -16,6 +14,7 @@ I am detail-oriented and driven by the impact that technology can have on the wo
 
 ### About Me:
 - 👨‍🎓 Junior Software Engineer | Fullstack Developer
+- 💼 Systems Engineering Intern at [AG Solution](https://www.agsolutiongroup.com/)
 - 🎓 Currently studying at the **University of Almería**
 - 📬 How to reach me: [lucasbarrientosmunoz@gmail.com](mailto:lucasbarrientosmunoz@gmail.com)
 - 📨 WhatsApp: [Contact me by WhatsApp](https://wa.link/6ch2m5)
