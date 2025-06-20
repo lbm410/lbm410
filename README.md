@@ -16,6 +16,7 @@ I am detail-oriented and driven by the impact that technology can have on the wo
 
 ### About Me:
 - 👨‍🎓 Junior Software Engineer | Fullstack Developer
+- 💻 Founder at (007 Studios)[https://007studios.es]
 - 🎓 Currently studying at the **University of Almería**
 - 📬 How to reach me: [lucasbarrientosmunoz@gmail.com](mailto:lucasbarrientosmunoz@gmail.com)
 - 📨 WhatsApp: [Contact me by WhatsApp](https://wa.link/6ch2m5)
