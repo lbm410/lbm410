@@ -18,7 +18,7 @@ I am detail-oriented and driven by the impact that technology can have on the wo
 - 👨‍🎓 Junior Software Engineer | Fullstack Developer
 - 💼 Systems Engineering Intern at [AG Solution](https://www.agsolutiongroup.com/)
 - 💻 Founder at [007 Studios](https://007studios.es)
-- 🎓 Currently studying at the **University of Almería**
+- 🎓 Software Engineering at **University of Almería**
 - 📬 How to reach me: [lucasbarrientosmunoz@gmail.com](mailto:lucasbarrientosmunoz@gmail.com)
 - 📨 WhatsApp: [Contact me by WhatsApp](https://wa.link/6ch2m5)
 - 💬 Feel free to ask me anything—I’m here to help.
