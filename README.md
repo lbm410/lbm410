@@ -15,7 +15,7 @@ I'm a full-stack software engineer with a focus on creating solutions that make 
 I am detail-oriented and driven by the impact that technology can have on the world. My goal is to build tools and applications that bring real value.
 
 ### About Me:
-- 👨‍🎓 Junior Software Engineer | Fullstack Developer
+- 👨‍🎓 Software Engineer | Fullstack Developer
 - 💼 Systems Engineering Intern at [AG Solution](https://www.agsolutiongroup.com/)
 - 💻 Founder at [007 Studios](https://007studios.es)
 - 🎓 Software Engineering at **University of Almería**
@@ -32,7 +32,7 @@ I am detail-oriented and driven by the impact that technology can have on the wo
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,mysql,react,angular,azure,idea,vscode"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,cs,dotnet,supabase,mysql,angular,docker,azure"/>
   </a>
 </p>
 
