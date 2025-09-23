@@ -32,7 +32,7 @@ I am detail-oriented and driven by the impact that technology can have on the wo
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,cs,dotnet,supabase,mysql,angular,docker,azure"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,cs,dotnet,supabase,mysql,angular,docker,azure,women"/>
   </a>
 </p>
 
