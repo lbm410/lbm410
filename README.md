@@ -17,6 +17,7 @@ I am detail-oriented and driven by the impact that technology can have on the wo
 ### About Me:
 - 👨‍🎓 Software Engineer | Fullstack Developer
 - 💼 Systems Engineering at [AG Solution](https://www.agsolutiongroup.com/)
+- 💶 CEO at [Paylex](https://paylex.es)
 - 💻 Founder at [007 Studios](https://007studios.es)
 - 🎓 Software Engineering at **University of Almería**
 - 📬 How to reach me: [lucasbarrientosmunoz@gmail.com](mailto:lucasbarrientosmunoz@gmail.com)
