@@ -15,7 +15,7 @@ I'm interested in where technology and business strategy meet, and I'm always lo
 
 - ⚙️ Tech Lead at [AG Solution](https://www.agsolutiongroup.com/)
 - 💼 CEO at [Paylex](https://paylex.es)
-- 📍 Based in Spain | Working across Europe
+- 📍 Based in Barcelona, Spain | Working across Europe
 - 🎓 Software Engineering at **University of Almería**
 - 📬 Reach me: [lucasbarrientosmunoz@gmail.com](mailto:lucasbarrientosmunoz@gmail.com)
 - 💬 Always open to talk about tech leadership, industrial automation, or building something ambitious.
